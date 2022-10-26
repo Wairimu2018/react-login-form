@@ -11,7 +11,7 @@ import {
   MDBInput,
   MDBCheckbox,
   MDBBtn,
-  MDBIcon
+  MDBIcon.
 }
 from 'mdb-react-ui-kit';
 
